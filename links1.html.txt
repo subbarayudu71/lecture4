@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My web page!</title>
+    </head>
+    <body>
+        <h2>Table of contents</h2>
+        <ul>
+          <li><a href="#section1">section 1</a></li>
+          <li><a href="#section2">section 2</a></li>
+          <li><a href="#section3">section 3</a></li>
+        </ul>
+           <h2 id="section1">section 1</h2>
+           <p>
+             lorem ipsum dolor sit amet,consectetur adipiscing elit.S
+             massa.In fermentum volutpat elit sit amet pharetra.Sed V
+             A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. ... Regardless of the kind of information they contain, all paragraphs share certain characteristics.
+           </p>
+           <h2 id="section2">section 2</h2>
+           <p>
+             lorem ipsum dolor sit amet,consectetur adipiscing elit.S
+             massa.In fermentum volutpat elit sit amet pharetra.Sed V
+             A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. ... Regardless of the kind of information they contain, all paragraphs share certain characteristics.
+           </p>
+           <h2 id="section3">section 3</h2>
+           <p>
+             lorem ipsum dolor sit amet,consectetur adipiscing elit.S
+             massa.In fermentum volutpat elit sit amet pharetra.Sed V
+             A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. ... Regardless of the kind of information they contain, all paragraphs share certain characteristics.
+           </p>
+    </body>
+</html>
